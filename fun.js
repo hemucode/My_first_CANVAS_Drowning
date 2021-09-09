@@ -3,7 +3,7 @@ var timer;
 
 function myfunction(){
     timer = setInterval(myfun,100);
-    timer = setInterval(mywrite,1000);        
+    //timer = setInterval(mywrite,1000);        
 }
 function myfun(){
     canvas = document.getElementById("mycanvas");
