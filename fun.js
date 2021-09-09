@@ -101,7 +101,7 @@ function myfun(){
     ctx.fillRect(620,o,xl,yl);
     
 }
-function mywrite(){ 
+function mywriteoff(){ 
 
     //F
     ctx.fillStyle= r15;
